@@ -1,5 +1,5 @@
 <h2>Hi 👋, I'm a Software Engineer</h2>
-<h3>Graduated from University of Central Punjab (UCP)🎓</h4>
+<h3>Recent Graduate from University of Central Punjab (UCP)🎓</h4>
 
 - 💻 I have hands-on experience in *Python, Machine Learning, Deep Learning, Compatitive Programming and SQL*
 - ⚡ My hobby is to *play E-Games.*
