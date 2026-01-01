@@ -4,7 +4,7 @@
 - 💻 I have hands-on experience in *Python, Machine Learning, Deep Learning, Compatitive Programming and SQL*
 - ⚡ My hobby is to *play Badminton, Cricket & E-Games.*
 - 📫 You can email me at adnansarfraz0047@gmail.com
-- 🌐 Visit my [Portfolio Website](https://moon-khan.github.io/portfolio-website/) to see my work.
+- 🌐 Visit my [Portfolio Website](https://github.com/Adnan-Sarfraz/adnan-sarfraz.github.io) to see my work.
   
 ### Connect with me:
 
